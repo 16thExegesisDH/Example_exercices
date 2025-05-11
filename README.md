@@ -9,6 +9,10 @@ This section presents examples based on my pipeline, adapted for use with other 
 All scripts used in this pipeline are adapted from those available at:  
 👉 [16thExegesisDH/PipeLineThm](https://github.com/16thExegesisDH/PipeLineThm)
 
+For more details about the broader framework visit:   
+👉 [DH Framework & Architecture](https://16thexegesisdh.github.io/ReformingPaul/Web_interface/HTML/dh_framework/dh_architecture.html)
+(note: the site is still under construction)
+
 ---
 
 ### 🔄 Workflow Overview
