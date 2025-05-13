@@ -11,7 +11,7 @@ All scripts used in this pipeline are adapted from those available at:
 
 For more details about the broader framework visit:   
 👉 [DH Framework & Architecture](https://16thexegesisdh.github.io/ReformingPaul/Web_interface/HTML/dh_framework/dh_architecture.html)
-(note: the site is still under construction)
+(NB: the site is not finish)
 
 ---
 
